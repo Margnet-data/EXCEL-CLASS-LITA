@@ -34,7 +34,7 @@ Learning how to create Excel dashboards provided insights into visualizing data 
 
 ### Sample Report
 
-![Employee Attrition Dashboard](path/to/your/image.jpg)
+![Sales Report](https://github.com/Margnet-data/EXCEL-CLASS-LITA/blob/main/SALES%20REPORT%20ON%20EXCEL.png)
 
 This dashboard illustrates my ability to translate raw data into actionable insights through effective data visualization.
 
