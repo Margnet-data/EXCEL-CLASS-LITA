@@ -18,6 +18,9 @@ Each function has a unique application, making it easier to work with large data
 
 ## Pivot Tables
 
+
+![Pivot TABLES](https://github.com/Margnet-data/EXCEL-CLASS-LITA/blob/main/PIVOT%20TABLES.png)
+
 Pivot tables enable quick summarization and analysis of large datasets by grouping, filtering, and reorganizing data. Key areas of focus included:
 - **Creating Pivot Tables**: Building pivot tables from raw data to identify patterns and trends.
 - **Grouping and Filtering Data**: Using pivot table tools to drill down into specific data segments.
